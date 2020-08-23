@@ -1,0 +1,1166 @@
+days
+pon	uto	sre	cet	pet
+
+hours
+1	2	3	4	5	6	7
+
+people
+51	brsla	srp.p	1,1,1,1,1
+54	brsla	srp.p	1,1,1,1,1
+81	brsla	srp.p	1,1,1,1
+82	brsla	srp.p	1,1,1,1
+52	stama	srp.p	1,1,1,1,1
+53	stama	srp.p	1,1,1,1,1
+62	stama	srp.p	1,1,1,1
+83	stama	srp.p	1,1,1,1
+61	hata	srp.p	1,1,1,1
+63	hata	srp.p	1,1,1,1
+71	hata	srp.p	1,1,1,1
+72	hata	srp.p	1,1,1,1
+73	hata	srp.p	1,1,1,1
+51	tebo	eng.p	1,1
+53	tebo	eng.p	1,1
+62	tebo	eng.p	1,1
+63	tebo	eng.p	1,1
+71	tebo	eng.p	1,1
+72	tebo	eng.p	1,1
+73	tebo	eng.p	1,1
+81	tebo	eng.p	1,1
+82	tebo	eng.p	1,1
+54	mami	eng.p	1,1
+61	mami	eng.p	1,1
+52	neol	eng.p	1,1
+83	neol	eng.p	1,1
+51	kakri	lik.p	1,1
+52	kakri	lik.p	1,1
+61	kakri	lik.p	1
+62	kakri	lik.p	1
+63	kakri	lik.p	1
+71	kakri	lik.p	1
+72	kakri	lik.p	1
+73	kakri	lik.p	1
+53	nnlik	lik.p	1,1
+54	nnlik	lik.p	1,1
+81	nnlik	lik.p	1
+82	nnlik	lik.p	1
+83	nnlik	lik.p	1
+51	bosla	muz.p	1,1
+52	bosla	muz.p	1,1
+53	bosla	muz.p	1,1
+54	bosla	muz.p	1,1
+61	bosla	muz.p	1
+62	bosla	muz.p	1
+63	bosla	muz.p	1
+71	bosla	muz.p	1
+72	bosla	muz.p	1
+73	bosla	muz.p	1
+81	bosla	muz.p	1
+82	bosla	muz.p	1
+83	bosla	muz.p	1
+51	kove	ist.p	1
+52	kove	ist.p	1
+53	kove	ist.p	1
+54	kove	ist.p	1
+61	kove	ist.p	1,1
+62	kove	ist.p	1,1
+63	kove	ist.p	1,1
+71	kove	ist.p	1,1
+72	kove	ist.p	1,1
+73	kove	ist.p	1,1
+81	kove	ist.p	1,1
+82	kove	ist.p	1,1
+83	kove	ist.p	1,1
+51	arsa	geo.p	1
+52	arsa	geo.p	1
+53	arsa	geo.p	1
+54	arsa	geo.p	1
+61	arsa	geo.p	1,1
+62	arsa	geo.p	1,1
+63	arsa	geo.p	1,1
+71	arsa	geo.p	1,1
+72	arsa	geo.p	1,1
+73	arsa	geo.p	1,1
+81	arsa	geo.p	1,1
+82	arsa	geo.p	1,1
+83	miiv	geo.p	2
+61	anpo	fiz.p	1,1
+62	anpo	fiz.p	1,1
+63	anpo	fiz.p	1,1
+71	anpo	fiz.p	1,1
+72	anpo	fiz.p	1,1
+73	anpo	fiz.p	1,1
+81	anpo	fiz.p	1,1
+82	anpo	fiz.p	1,1
+83	anpo	fiz.p	1,1
+72	bosne	mat.p	1,1,1,1
+81	bosne	mat.p	1,1,1,1
+82	bosne	mat.p	1,1,1,1
+83	bosne	mat.p	1,1,1,1
+51	jasve	mat.p	1,1,1,1
+53	jasve	mat.p	1,1,1,1
+61	jasve	mat.p	1,1,1,1
+62	jasve	mat.p	1,1,1,1
+63	jasve	mat.p	1,1,1,1
+52	anka	mat.p	1,1,1,1
+54	anka	mat.p	1,1,1,1
+71	anka	mat.p	1,1,1,1
+73	anka	mat.p	1,1,1,1
+71	anka	inf.v	1
+73	anka	inf.v	1
+51	nninf	inf.v	1
+52	nninf	inf.v	1
+53	nninf	inf.v	1
+54	nninf	inf.v	1
+61	nninf	inf.v	1
+62	nninf	inf.v	1
+63	nninf	inf.v	1
+72	nninf	inf.v	1
+81	nninf	inf.v	1
+82	nninf	inf.v	1
+83	nninf	inf.v	1
+52	kusa	bio.p	1,1
+53	kusa	bio.p	1,1
+54	kusa	bio.p	1,1
+63	kusa	bio.p	1,1
+71	kusa	bio.p	1,1
+72	kusa	bio.p	1,1
+73	kusa	bio.p	1,1
+81	kusa	bio.p	1,1
+82	kusa	bio.p	1,1
+83	kusa	bio.p	1,1
+51	staiv	bio.p	1,1
+61	staiv	bio.p	1,1
+62	staiv	bio.p	1,1
+71	muje	hem.p	1,1
+72	muje	hem.p	1,1
+73	muje	hem.p	1,1
+81	muje	hem.p	1,1
+82	muje	hem.p	1,1
+83	muje	hem.p	1,1
+51	boal	tt.v	2
+52	boal	tt.v	2
+53	boal	tt.v	2
+54	boal	tt.v	2
+61	boal	tt.v	2
+62	boal	tt.v	2
+63	boal	tt.v	2
+71	boal	tt.v	2
+72	boal	tt.v	2
+73	boal	tt.v	2
+81	boal	tt.v	2
+82	boal	tt.v	2
+83	boal	tt.v	2
+51	rada	fzc.v	1,1,1
+52	steda	fzc.v	1,1,1
+53	steda	fzc.v	1,1,1
+54	rada	fzc.v	1,1,1
+61	rada	fzc.v	1,1,1
+62	steda	fzc.v	1,1,1
+63	rada	fzc.v	1,1
+63	steda	fzc.v	1
+71	rada	fzc.v	1,1,1
+72	steda	fzc.v	1,1,1
+73	steda	fzc.v	1,1,1
+81	rada	fzc.v	1,1,1
+82	steda	fzc.v	1,1,1
+83	rada	fzc.v	1,1,1
+81	busne	fra.p	1,1
+81	trina	rus.p	1,1
+82,83	busne	fra.p	1,1
+82,83	trina	rus.p	1,1
+51,52	busne	fra.p	1,1
+53,54	busne	fra.p	1,1
+51,52	trina	rus.p	1,1
+53,54	trina	rus.p	1,1
+61,62,63	trina	rus.p	1,1
+61	busne	fra.p	1,1
+62,63	busne	fra.p	1,1
+71,72,73	trina	rus.p	1,1
+71	busne	fra.p	1,1
+72,73	busne	fra.p	1,1
+51	busne	gra.v	1
+52	busne	gra.v	1
+53	knemi	gra.v	1
+54	knemi	gra.v	1
+61	knemi	gra.v	1
+62	knemi	gra.v	1
+63	knemi	gra.v	1
+71	knemi	gra.v	1
+72	knemi	gra.v	1
+73	knemi	gra.v	1
+81,83	knemi	gra.v	1
+82	knemi	gra.v	1
+51,52,53,54	stebru	ver.v	1
+61,62,63	stebru	ver.v	1
+71,72,73	stebru	ver.v	1
+81	stebru	ver.v	1
+82,83	stebru	ver.v	1
+51,52,53,54	bosla	hor.v	1
+61,62,63	bosla	hor.v	1
+71,72,73	bosla	hor.v	1
+81,82,83	bosla	hor.v	1
+61,62,63	nnlik	csv.v	1
+71	nnlik	csv.v	1
+72	nnlik	csv.v	1
+73	nnlik	csv.v	1
+81,82,83	nnlik	csv.v	1
+51,54	anpo	cp.v	1
+52,53	anpo	cp.v	1
+51,52	nnlik	csv.v	1
+53,54	nnlik	csv.v	1
+61	muje	cp.v	1
+
+same_time
+busne_81_fra.p.1'	trina_81_rus.p.1'
+busne_81_fra.p.2'	trina_81_rus.p.2'
+busne_82_fra.p.1'	trina_82_rus.p.1'
+busne_82_fra.p.2'	trina_82_rus.p.2'
+busne_51_fra.p.1'	trina_51_rus.p.1'
+busne_51_fra.p.2'	trina_51_rus.p.2'
+busne_53_fra.p.1'	trina_53_rus.p.1'
+busne_53_fra.p.2'	trina_53_rus.p.2'
+rada_51_fzc.v.1'	steda_52_fzc.v.1'
+rada_51_fzc.v.2'	steda_52_fzc.v.2'
+rada_51_fzc.v.3'	steda_52_fzc.v.3'
+rada_61_fzc.v.1'	steda_62_fzc.v.1'
+rada_61_fzc.v.2'	steda_62_fzc.v.2'
+rada_61_fzc.v.3'	steda_62_fzc.v.3'
+rada_71_fzc.v.1'	steda_72_fzc.v.1'
+rada_71_fzc.v.2'	steda_72_fzc.v.2'
+rada_71_fzc.v.3'	steda_72_fzc.v.3'
+rada_81_fzc.v.1'	steda_82_fzc.v.1'
+rada_81_fzc.v.2'	steda_82_fzc.v.2'
+rada_81_fzc.v.3'	steda_82_fzc.v.3'
+
+distinct
+anka_71_inf.v.1'	nninf
+anka_73_inf.v.1'	nninf
+
+additional
+// francuski i ruski idu kao prvi ili poslednji cas
+trina_61_rus.p.1'_pon_1 trina_61_rus.p.1'_uto_1 trina_61_rus.p.1'_sre_1 trina_61_rus.p.1'_cet_1 trina_61_rus.p.1'_pet_1 trina_61_rus.p.1'_pon_7 trina_61_rus.p.1'_uto_7 trina_61_rus.p.1'_sre_7 trina_61_rus.p.1'_cet_7 trina_61_rus.p.1'_pet_7
+trina_61_rus.p.2'_pon_1 trina_61_rus.p.2'_uto_1 trina_61_rus.p.2'_sre_1 trina_61_rus.p.2'_cet_1 trina_61_rus.p.2'_pet_1 trina_61_rus.p.2'_pon_7 trina_61_rus.p.2'_uto_7 trina_61_rus.p.2'_sre_7 trina_61_rus.p.2'_cet_7 trina_61_rus.p.2'_pet_7
+trina_71_rus.p.1'_pon_1 trina_71_rus.p.1'_uto_1 trina_71_rus.p.1'_sre_1 trina_71_rus.p.1'_cet_1 trina_71_rus.p.1'_pet_1 trina_71_rus.p.1'_pon_7 trina_71_rus.p.1'_uto_7 trina_71_rus.p.1'_sre_7 trina_71_rus.p.1'_cet_7 trina_71_rus.p.1'_pet_7
+trina_71_rus.p.2'_pon_1 trina_71_rus.p.2'_uto_1 trina_71_rus.p.2'_sre_1 trina_71_rus.p.2'_cet_1 trina_71_rus.p.2'_pet_1 trina_71_rus.p.2'_pon_7 trina_71_rus.p.2'_uto_7 trina_71_rus.p.2'_sre_7 trina_71_rus.p.2'_cet_7 trina_71_rus.p.2'_pet_7
+busne_61_fra.p.1'_pon_1 busne_61_fra.p.1'_uto_1 busne_61_fra.p.1'_sre_1 busne_61_fra.p.1'_cet_1 busne_61_fra.p.1'_pet_1 busne_61_fra.p.1'_pon_7 busne_61_fra.p.1'_uto_7 busne_61_fra.p.1'_sre_7 busne_61_fra.p.1'_cet_7 busne_61_fra.p.1'_pet_7
+busne_61_fra.p.2'_pon_1 busne_61_fra.p.2'_uto_1 busne_61_fra.p.2'_sre_1 busne_61_fra.p.2'_cet_1 busne_61_fra.p.2'_pet_1 busne_61_fra.p.2'_pon_7 busne_61_fra.p.2'_uto_7 busne_61_fra.p.2'_sre_7 busne_61_fra.p.2'_cet_7 busne_61_fra.p.2'_pet_7
+// busne_71_fra.p.1'_pon_1 busne_71_fra.p.1'_uto_1 busne_71_fra.p.1'_sre_1 busne_71_fra.p.1'_cet_1 busne_71_fra.p.1'_pet_1 busne_71_fra.p.1'_pon_7 busne_71_fra.p.1'_uto_7 busne_71_fra.p.1'_sre_7 busne_71_fra.p.1'_cet_7 busne_71_fra.p.1'_pet_7
+// busne_71_fra.p.2'_pon_1 busne_71_fra.p.2'_uto_1 busne_71_fra.p.2'_sre_1 busne_71_fra.p.2'_cet_1 busne_71_fra.p.2'_pet_1 busne_71_fra.p.2'_pon_7 busne_71_fra.p.2'_uto_7 busne_71_fra.p.2'_sre_7 busne_71_ fra.p.2'_cet_7 busne_71_fra.p.2'_pet_7
+// veronauka
+-stebru_71_ver.v.1'_pon_7 -trina_71_rus.p.1'_pon_1 // ako 71 ima veronauku 7 cas, prvi cas ne sme da bude ruski ni gradjansko
+-stebru_71_ver.v.1'_pon_7 -knemi_71_gra.v.1'_pon_1
+-stebru_81_ver.v.1'_pet_7 -knemi_81_gra.v.1'_pet_1 // ako 81 ima veronauku 7 cas, prvi cas ne sme da bude gradjansko
+-stebru_6
+stebru_51_ver.v.1'_pon_1 stebru_51_ver.v.1'_uto_1 stebru_51_ver.v.1'_sre_1 stebru_51_ver.v.1'_cet_1 stebru_51_ver.v.1'_pet_1 stebru_51_ver.v.1'_pon_7 stebru_51_ver.v.1'_uto_7 stebru_51_ver.v.1'_sre_7 stebru_51_ver.v.1'_cet_7 stebru_51_ver.v.1'_pet_7 stebru_51_ver.v.1'_pon_2 stebru_51_ver.v.1'_uto_2 stebru_51_ver.v.1'_sre_2 stebru_51_ver.v.1'_cet_2 stebru_51_ver.v.1'_pet_2 stebru_51_ver.v.1'_pon_6 stebru_51_ver.v.1'_uto_6 stebru_51_ver.v.1'_sre_6 stebru_51_ver.v.1'_cet_6 stebru_51_ver.v.1'_pet_6
+-stebru_51_ver.v.1'_pon_2 -51_pon_1
+-stebru_51_ver.v.1'_uto_2 -51_uto_1
+-stebru_51_ver.v.1'_sre_2 -51_sre_1
+-stebru_51_ver.v.1'_cet_2 -51_cet_1
+-stebru_51_ver.v.1'_pet_2 -51_pet_1
+-stebru_52_ver.v.1'_pon_2 -52_pon_1
+-stebru_52_ver.v.1'_uto_2 -52_uto_1
+-stebru_52_ver.v.1'_sre_2 -52_sre_1
+-stebru_52_ver.v.1'_cet_2 -52_cet_1
+-stebru_52_ver.v.1'_pet_2 -52_pet_1
+-stebru_53_ver.v.1'_pon_2 -53_pon_1
+-stebru_53_ver.v.1'_uto_2 -53_uto_1
+-stebru_53_ver.v.1'_sre_2 -53_sre_1
+-stebru_53_ver.v.1'_cet_2 -53_cet_1
+-stebru_53_ver.v.1'_pet_2 -53_pet_1
+-stebru_54_ver.v.1'_pon_2 -54_pon_1
+-stebru_54_ver.v.1'_uto_2 -54_uto_1
+-stebru_54_ver.v.1'_sre_2 -54_sre_1
+-stebru_54_ver.v.1'_cet_2 -54_cet_1
+-stebru_54_ver.v.1'_pet_2 -54_pet_1
+-stebru_51_ver.v.1'_pon_6 -51_pon_7
+-stebru_51_ver.v.1'_uto_6 -51_uto_7
+-stebru_51_ver.v.1'_sre_6 -51_sre_7
+-stebru_51_ver.v.1'_cet_6 -51_cet_7
+-stebru_51_ver.v.1'_pet_6 -51_pet_7
+-stebru_52_ver.v.1'_pon_6 -52_pon_7
+-stebru_52_ver.v.1'_uto_6 -52_uto_7
+-stebru_52_ver.v.1'_sre_6 -52_sre_7
+-stebru_52_ver.v.1'_cet_6 -52_cet_7
+-stebru_52_ver.v.1'_pet_6 -52_pet_7
+-stebru_53_ver.v.1'_pon_6 -53_pon_7
+-stebru_53_ver.v.1'_uto_6 -53_uto_7
+-stebru_53_ver.v.1'_sre_6 -53_sre_7
+-stebru_53_ver.v.1'_cet_6 -53_cet_7
+-stebru_53_ver.v.1'_pet_6 -53_pet_7
+-stebru_54_ver.v.1'_pon_6 -54_pon_7
+-stebru_54_ver.v.1'_uto_6 -54_uto_7
+-stebru_54_ver.v.1'_sre_6 -54_sre_7
+-stebru_54_ver.v.1'_cet_6 -54_cet_7
+-stebru_54_ver.v.1'_pet_6 -54_pet_7
+stebru_61_ver.v.1'_pon_1 stebru_61_ver.v.1'_uto_1 stebru_61_ver.v.1'_sre_1 stebru_61_ver.v.1'_cet_1 stebru_61_ver.v.1'_pet_1 stebru_61_ver.v.1'_pon_7 stebru_61_ver.v.1'_uto_7 stebru_61_ver.v.1'_sre_7 stebru_61_ver.v.1'_cet_7 stebru_61_ver.v.1'_pet_7 stebru_61_ver.v.1'_pon_2 stebru_61_ver.v.1'_uto_2 stebru_61_ver.v.1'_sre_2 stebru_61_ver.v.1'_cet_2 stebru_61_ver.v.1'_pet_2 stebru_61_ver.v.1'_pon_6 stebru_61_ver.v.1'_uto_6 stebru_61_ver.v.1'_sre_6 stebru_61_ver.v.1'_cet_6 stebru_61_ver.v.1'_pet_6
+-stebru_61_ver.v.1'_pon_2 -61_pon_1
+-stebru_61_ver.v.1'_uto_2 -61_uto_1
+-stebru_61_ver.v.1'_sre_2 -61_sre_1
+-stebru_61_ver.v.1'_cet_2 -61_cet_1
+-stebru_61_ver.v.1'_pet_2 -61_pet_1
+-stebru_62_ver.v.1'_pon_2 -62_pon_1
+-stebru_62_ver.v.1'_uto_2 -62_uto_1
+-stebru_62_ver.v.1'_sre_2 -62_sre_1
+-stebru_62_ver.v.1'_cet_2 -62_cet_1
+-stebru_62_ver.v.1'_pet_2 -62_pet_1
+-stebru_63_ver.v.1'_pon_2 -63_pon_1
+-stebru_63_ver.v.1'_uto_2 -63_uto_1
+-stebru_63_ver.v.1'_sre_2 -63_sre_1
+-stebru_63_ver.v.1'_cet_2 -63_cet_1
+-stebru_63_ver.v.1'_pet_2 -63_pet_1
+-stebru_61_ver.v.1'_pon_6 -61_pon_7
+-stebru_61_ver.v.1'_uto_6 -61_uto_7
+-stebru_61_ver.v.1'_sre_6 -61_sre_7
+-stebru_61_ver.v.1'_cet_6 -61_cet_7
+-stebru_61_ver.v.1'_pet_6 -61_pet_7
+-stebru_62_ver.v.1'_pon_6 -62_pon_7
+-stebru_62_ver.v.1'_uto_6 -62_uto_7
+-stebru_62_ver.v.1'_sre_6 -62_sre_7
+-stebru_62_ver.v.1'_cet_6 -62_cet_7
+-stebru_62_ver.v.1'_pet_6 -62_pet_7
+-stebru_63_ver.v.1'_pon_6 -63_pon_7
+-stebru_63_ver.v.1'_uto_6 -63_uto_7
+-stebru_63_ver.v.1'_sre_6 -63_sre_7
+-stebru_63_ver.v.1'_cet_6 -63_cet_7
+-stebru_63_ver.v.1'_pet_6 -63_pet_7
+stebru_71_ver.v.1'_pon_1 stebru_71_ver.v.1'_uto_1 stebru_71_ver.v.1'_sre_1 stebru_71_ver.v.1'_cet_1 stebru_71_ver.v.1'_pet_1 stebru_71_ver.v.1'_pon_7 stebru_71_ver.v.1'_uto_7 stebru_71_ver.v.1'_sre_7 stebru_71_ver.v.1'_cet_7 stebru_71_ver.v.1'_pet_7 stebru_71_ver.v.1'_pon_2 stebru_71_ver.v.1'_uto_2 stebru_71_ver.v.1'_sre_2 stebru_71_ver.v.1'_cet_2 stebru_71_ver.v.1'_pet_2 stebru_71_ver.v.1'_pon_6 stebru_71_ver.v.1'_uto_6 stebru_71_ver.v.1'_sre_6 stebru_71_ver.v.1'_cet_6 stebru_71_ver.v.1'_pet_6
+-stebru_71_ver.v.1'_pon_2 -71_pon_1
+-stebru_71_ver.v.1'_uto_2 -71_uto_1
+-stebru_71_ver.v.1'_sre_2 -71_sre_1
+-stebru_71_ver.v.1'_cet_2 -71_cet_1
+-stebru_71_ver.v.1'_pet_2 -71_pet_1
+-stebru_72_ver.v.1'_pon_2 -72_pon_1
+-stebru_72_ver.v.1'_uto_2 -72_uto_1
+-stebru_72_ver.v.1'_sre_2 -72_sre_1
+-stebru_72_ver.v.1'_cet_2 -72_cet_1
+-stebru_72_ver.v.1'_pet_2 -72_pet_1
+-stebru_73_ver.v.1'_pon_2 -73_pon_1
+-stebru_73_ver.v.1'_uto_2 -73_uto_1
+-stebru_73_ver.v.1'_sre_2 -73_sre_1
+-stebru_73_ver.v.1'_cet_2 -73_cet_1
+-stebru_73_ver.v.1'_pet_2 -73_pet_1
+-stebru_71_ver.v.1'_pon_6 -71_pon_7
+-stebru_71_ver.v.1'_uto_6 -71_uto_7
+-stebru_71_ver.v.1'_sre_6 -71_sre_7
+-stebru_71_ver.v.1'_cet_6 -71_cet_7
+-stebru_71_ver.v.1'_pet_6 -71_pet_7
+-stebru_72_ver.v.1'_pon_6 -72_pon_7
+-stebru_72_ver.v.1'_uto_6 -72_uto_7
+-stebru_72_ver.v.1'_sre_6 -72_sre_7
+-stebru_72_ver.v.1'_cet_6 -72_cet_7
+-stebru_72_ver.v.1'_pet_6 -72_pet_7
+-stebru_73_ver.v.1'_pon_6 -73_pon_7
+-stebru_73_ver.v.1'_uto_6 -73_uto_7
+-stebru_73_ver.v.1'_sre_6 -73_sre_7
+-stebru_73_ver.v.1'_cet_6 -73_cet_7
+-stebru_73_ver.v.1'_pet_6 -73_pet_7
+stebru_81_ver.v.1'_pon_1 stebru_81_ver.v.1'_uto_1 stebru_81_ver.v.1'_sre_1 stebru_81_ver.v.1'_cet_1 stebru_81_ver.v.1'_pet_1 stebru_81_ver.v.1'_pon_7 stebru_81_ver.v.1'_uto_7 stebru_81_ver.v.1'_sre_7 stebru_81_ver.v.1'_cet_7 stebru_81_ver.v.1'_pet_7 stebru_81_ver.v.1'_pon_2 stebru_81_ver.v.1'_uto_2 stebru_81_ver.v.1'_sre_2 stebru_81_ver.v.1'_cet_2 stebru_81_ver.v.1'_pet_2 stebru_81_ver.v.1'_pon_6 stebru_81_ver.v.1'_uto_6 stebru_81_ver.v.1'_sre_6 stebru_81_ver.v.1'_cet_6 stebru_81_ver.v.1'_pet_6
+stebru_82_ver.v.1'_pon_1 stebru_82_ver.v.1'_uto_1 stebru_82_ver.v.1'_sre_1 stebru_82_ver.v.1'_cet_1 stebru_82_ver.v.1'_pet_1 stebru_82_ver.v.1'_pon_7 stebru_82_ver.v.1'_uto_7 stebru_82_ver.v.1'_sre_7 stebru_82_ver.v.1'_cet_7 stebru_82_ver.v.1'_pet_7 stebru_82_ver.v.1'_pon_2 stebru_82_ver.v.1'_uto_2 stebru_82_ver.v.1'_sre_2 stebru_82_ver.v.1'_cet_2 stebru_82_ver.v.1'_pet_2 stebru_82_ver.v.1'_pon_6 stebru_82_ver.v.1'_uto_6 stebru_82_ver.v.1'_sre_6 stebru_82_ver.v.1'_cet_6 stebru_82_ver.v.1'_pet_6
+-stebru_81_ver.v.1'_pon_2 -81_pon_1
+-stebru_81_ver.v.1'_uto_2 -81_uto_1
+-stebru_81_ver.v.1'_sre_2 -81_sre_1
+-stebru_81_ver.v.1'_cet_2 -81_cet_1
+-stebru_81_ver.v.1'_pet_2 -81_pet_1
+-stebru_82_ver.v.1'_pon_2 -82_pon_1
+-stebru_82_ver.v.1'_uto_2 -82_uto_1
+-stebru_82_ver.v.1'_sre_2 -82_sre_1
+-stebru_82_ver.v.1'_cet_2 -82_cet_1
+-stebru_82_ver.v.1'_pet_2 -82_pet_1
+-stebru_83_ver.v.1'_pon_2 -83_pon_1
+-stebru_83_ver.v.1'_uto_2 -83_uto_1
+-stebru_83_ver.v.1'_sre_2 -83_sre_1
+-stebru_83_ver.v.1'_cet_2 -83_cet_1
+-stebru_83_ver.v.1'_pet_2 -83_pet_1
+-stebru_81_ver.v.1'_pon_6 -81_pon_7
+-stebru_81_ver.v.1'_uto_6 -81_uto_7
+-stebru_81_ver.v.1'_sre_6 -81_sre_7
+-stebru_81_ver.v.1'_cet_6 -81_cet_7
+-stebru_81_ver.v.1'_pet_6 -81_pet_7
+-stebru_82_ver.v.1'_pon_6 -82_pon_7
+-stebru_82_ver.v.1'_uto_6 -82_uto_7
+-stebru_82_ver.v.1'_sre_6 -82_sre_7
+-stebru_82_ver.v.1'_cet_6 -82_cet_7
+-stebru_82_ver.v.1'_pet_6 -82_pet_7
+-stebru_83_ver.v.1'_pon_6 -83_pon_7
+-stebru_83_ver.v.1'_uto_6 -83_uto_7
+-stebru_83_ver.v.1'_sre_6 -83_sre_7
+-stebru_83_ver.v.1'_cet_6 -83_cet_7
+-stebru_83_ver.v.1'_pet_6 -83_pet_7
+// 2 i 6 samo uz 1 i 7
+-stebru_pon_2 stebru_pon_1
+-stebru_uto_2 stebru_uto_1
+-stebru_sre_2 stebru_sre_1
+-stebru_cet_2 stebru_cet_1
+-stebru_pet_2 stebru_pet_1
+-stebru_pon_6 stebru_pon_7
+-stebru_uto_6 stebru_uto_7
+-stebru_sre_6 stebru_sre_7
+-stebru_cet_6 stebru_cet_7
+-stebru_pet_6 stebru_pet_7
+// 7 moze kao precas
+-stebru_51_ver.v.1'_pon_7 51_pon_1
+-stebru_51_ver.v.1'_uto_7 51_uto_1
+-stebru_51_ver.v.1'_sre_7 51_sre_1
+-stebru_51_ver.v.1'_cet_7 51_cet_1
+-stebru_51_ver.v.1'_pet_7 51_pet_1
+-stebru_52_ver.v.1'_pon_7 52_pon_1
+-stebru_52_ver.v.1'_uto_7 52_uto_1
+-stebru_52_ver.v.1'_sre_7 52_sre_1
+-stebru_52_ver.v.1'_cet_7 52_cet_1
+-stebru_52_ver.v.1'_pet_7 52_pet_1
+-stebru_53_ver.v.1'_pon_7 53_pon_1
+-stebru_53_ver.v.1'_uto_7 53_uto_1
+-stebru_53_ver.v.1'_sre_7 53_sre_1
+-stebru_53_ver.v.1'_cet_7 53_cet_1
+-stebru_53_ver.v.1'_pet_7 53_pet_1
+-stebru_54_ver.v.1'_pon_7 54_pon_1
+-stebru_54_ver.v.1'_uto_7 54_uto_1
+-stebru_54_ver.v.1'_sre_7 54_sre_1
+-stebru_54_ver.v.1'_cet_7 54_cet_1
+-stebru_54_ver.v.1'_pet_7 54_pet_1
+-stebru_61_ver.v.1'_pon_7 61_pon_1
+-stebru_61_ver.v.1'_uto_7 61_uto_1
+-stebru_61_ver.v.1'_sre_7 61_sre_1
+-stebru_61_ver.v.1'_cet_7 61_cet_1
+-stebru_61_ver.v.1'_pet_7 61_pet_1
+-stebru_62_ver.v.1'_pon_7 62_pon_1
+-stebru_62_ver.v.1'_uto_7 62_uto_1
+-stebru_62_ver.v.1'_sre_7 62_sre_1
+-stebru_62_ver.v.1'_cet_7 62_cet_1
+-stebru_62_ver.v.1'_pet_7 62_pet_1
+-stebru_63_ver.v.1'_pon_7 63_pon_1
+-stebru_63_ver.v.1'_uto_7 63_uto_1
+-stebru_63_ver.v.1'_sre_7 63_sre_1
+-stebru_63_ver.v.1'_cet_7 63_cet_1
+-stebru_63_ver.v.1'_pet_7 63_pet_1
+-stebru_71_ver.v.1'_pon_7 71_pon_1
+-stebru_71_ver.v.1'_uto_7 71_uto_1
+-stebru_71_ver.v.1'_sre_7 71_sre_1
+-stebru_71_ver.v.1'_cet_7 71_cet_1
+-stebru_71_ver.v.1'_pet_7 71_pet_1
+-stebru_72_ver.v.1'_pon_7 72_pon_1
+-stebru_72_ver.v.1'_uto_7 72_uto_1
+-stebru_72_ver.v.1'_sre_7 72_sre_1
+-stebru_72_ver.v.1'_cet_7 72_cet_1
+-stebru_72_ver.v.1'_pet_7 72_pet_1
+-stebru_73_ver.v.1'_pon_7 73_pon_1
+-stebru_73_ver.v.1'_uto_7 73_uto_1
+-stebru_73_ver.v.1'_sre_7 73_sre_1
+-stebru_73_ver.v.1'_cet_7 73_cet_1
+-stebru_73_ver.v.1'_pet_7 73_pet_1
+-stebru_81_ver.v.1'_pon_7 81_pon_1
+-stebru_81_ver.v.1'_uto_7 81_uto_1
+-stebru_81_ver.v.1'_sre_7 81_sre_1
+-stebru_81_ver.v.1'_cet_7 81_cet_1
+-stebru_81_ver.v.1'_pet_7 81_pet_1
+-stebru_82_ver.v.1'_pon_7 82_pon_1
+-stebru_82_ver.v.1'_uto_7 82_uto_1
+-stebru_82_ver.v.1'_sre_7 82_sre_1
+-stebru_82_ver.v.1'_cet_7 82_cet_1
+-stebru_82_ver.v.1'_pet_7 82_pet_1
+-stebru_83_ver.v.1'_pon_7 83_pon_1
+-stebru_83_ver.v.1'_uto_7 83_uto_1
+-stebru_83_ver.v.1'_sre_7 83_sre_1
+-stebru_83_ver.v.1'_cet_7 83_cet_1
+-stebru_83_ver.v.1'_pet_7 83_pet_1
+// 1 moze kao postcas
+-stebru_51_ver.v.1'_pon_1 51_pon_7 
+-stebru_51_ver.v.1'_uto_1 51_uto_7 
+-stebru_51_ver.v.1'_sre_1 51_sre_7 
+-stebru_51_ver.v.1'_cet_1 51_cet_7 
+-stebru_51_ver.v.1'_pet_1 51_pet_7 
+-stebru_52_ver.v.1'_pon_1 52_pon_7 
+-stebru_52_ver.v.1'_uto_1 52_uto_7 
+-stebru_52_ver.v.1'_sre_1 52_sre_7 
+-stebru_52_ver.v.1'_cet_1 52_cet_7 
+-stebru_52_ver.v.1'_pet_1 52_pet_7 
+-stebru_53_ver.v.1'_pon_1 53_pon_7 
+-stebru_53_ver.v.1'_uto_1 53_uto_7 
+-stebru_53_ver.v.1'_sre_1 53_sre_7 
+-stebru_53_ver.v.1'_cet_1 53_cet_7 
+-stebru_53_ver.v.1'_pet_1 53_pet_7 
+-stebru_54_ver.v.1'_pon_1 54_pon_7 
+-stebru_54_ver.v.1'_uto_1 54_uto_7 
+-stebru_54_ver.v.1'_sre_1 54_sre_7 
+-stebru_54_ver.v.1'_cet_1 54_cet_7 
+-stebru_54_ver.v.1'_pet_1 54_pet_7 
+-stebru_61_ver.v.1'_pon_1 61_pon_7 
+-stebru_61_ver.v.1'_uto_1 61_uto_7 
+-stebru_61_ver.v.1'_sre_1 61_sre_7 
+-stebru_61_ver.v.1'_cet_1 61_cet_7 
+-stebru_61_ver.v.1'_pet_1 61_pet_7 
+-stebru_62_ver.v.1'_pon_1 62_pon_7 
+-stebru_62_ver.v.1'_uto_1 62_uto_7 
+-stebru_62_ver.v.1'_sre_1 62_sre_7 
+-stebru_62_ver.v.1'_cet_1 62_cet_7 
+-stebru_62_ver.v.1'_pet_1 62_pet_7 
+-stebru_63_ver.v.1'_pon_1 63_pon_7 
+-stebru_63_ver.v.1'_uto_1 63_uto_7 
+-stebru_63_ver.v.1'_sre_1 63_sre_7 
+-stebru_63_ver.v.1'_cet_1 63_cet_7 
+-stebru_63_ver.v.1'_pet_1 63_pet_7 
+-stebru_71_ver.v.1'_pon_1 71_pon_7 
+-stebru_71_ver.v.1'_uto_1 71_uto_7 
+-stebru_71_ver.v.1'_sre_1 71_sre_7 
+-stebru_71_ver.v.1'_cet_1 71_cet_7 
+-stebru_71_ver.v.1'_pet_1 71_pet_7 
+-stebru_72_ver.v.1'_pon_1 72_pon_7 
+-stebru_72_ver.v.1'_uto_1 72_uto_7 
+-stebru_72_ver.v.1'_sre_1 72_sre_7 
+-stebru_72_ver.v.1'_cet_1 72_cet_7 
+-stebru_72_ver.v.1'_pet_1 72_pet_7 
+-stebru_73_ver.v.1'_pon_1 73_pon_7 
+-stebru_73_ver.v.1'_uto_1 73_uto_7 
+-stebru_73_ver.v.1'_sre_1 73_sre_7 
+-stebru_73_ver.v.1'_cet_1 73_cet_7 
+-stebru_73_ver.v.1'_pet_1 73_pet_7 
+-stebru_81_ver.v.1'_pon_1 81_pon_7 
+-stebru_81_ver.v.1'_uto_1 81_uto_7 
+-stebru_81_ver.v.1'_sre_1 81_sre_7 
+-stebru_81_ver.v.1'_cet_1 81_cet_7 
+-stebru_81_ver.v.1'_pet_1 81_pet_7 
+-stebru_82_ver.v.1'_pon_1 82_pon_7 
+-stebru_82_ver.v.1'_uto_1 82_uto_7 
+-stebru_82_ver.v.1'_sre_1 82_sre_7 
+-stebru_82_ver.v.1'_cet_1 82_cet_7 
+-stebru_82_ver.v.1'_pet_1 82_pet_7 
+-stebru_83_ver.v.1'_pon_1 83_pon_7 
+-stebru_83_ver.v.1'_uto_1 83_uto_7 
+-stebru_83_ver.v.1'_sre_1 83_sre_7 
+-stebru_83_ver.v.1'_cet_1 83_cet_7 
+-stebru_83_ver.v.1'_pet_1 83_pet_7 
+// gradjansko
+knemi_81_gra.v.1'_pon_1 knemi_81_gra.v.1'_uto_1 knemi_81_gra.v.1'_sre_1 knemi_81_gra.v.1'_cet_1 knemi_81_gra.v.1'_pet_1 knemi_81_gra.v.1'_pon_7 knemi_81_gra.v.1'_uto_7 knemi_81_gra.v.1'_sre_7 knemi_81_gra.v.1'_cet_7 knemi_81_gra.v.1'_pet_7
+knemi_82_gra.v.1'_pon_1 knemi_82_gra.v.1'_uto_1 knemi_82_gra.v.1'_sre_1 knemi_82_gra.v.1'_cet_1 knemi_82_gra.v.1'_pet_1 knemi_82_gra.v.1'_pon_7 knemi_82_gra.v.1'_uto_7 knemi_82_gra.v.1'_sre_7 knemi_82_gra.v.1'_cet_7 knemi_82_gra.v.1'_pet_7
+// izborni
+bosla_51_hor.v.1'_pon_7 bosla_51_hor.v.1'_uto_7 bosla_51_hor.v.1'_sre_7 bosla_51_hor.v.1'_cet_7 bosla_51_hor.v.1'_pet_7
+bosla_61_hor.v.1'_pon_7 bosla_61_hor.v.1'_uto_7 bosla_61_hor.v.1'_sre_7 bosla_61_hor.v.1'_cet_7 bosla_61_hor.v.1'_pet_7
+bosla_71_hor.v.1'_pon_7 bosla_71_hor.v.1'_uto_7 bosla_71_hor.v.1'_sre_7 bosla_71_hor.v.1'_cet_7 bosla_71_hor.v.1'_pet_7
+bosla_81_hor.v.1'_pon_7 bosla_81_hor.v.1'_uto_7 bosla_81_hor.v.1'_sre_7 bosla_81_hor.v.1'_cet_7 bosla_81_hor.v.1'_pet_7
+nnlik_61_csv.v.1'_pon_7 nnlik_61_csv.v.1'_uto_7 nnlik_61_csv.v.1'_sre_7 nnlik_61_csv.v.1'_cet_7 nnlik_61_csv.v.1'_pet_7
+nnlik_81_csv.v.1'_pon_7 nnlik_81_csv.v.1'_uto_7 nnlik_81_csv.v.1'_sre_7 nnlik_81_csv.v.1'_cet_7 nnlik_81_csv.v.1'_pet_7
+nnlik_51_csv.v.1'_pon_7 nnlik_51_csv.v.1'_uto_7 nnlik_51_csv.v.1'_sre_7 nnlik_51_csv.v.1'_cet_7 nnlik_51_csv.v.1'_pet_7
+nnlik_53_csv.v.1'_pon_7 nnlik_53_csv.v.1'_uto_7 nnlik_53_csv.v.1'_sre_7 nnlik_53_csv.v.1'_cet_7 nnlik_53_csv.v.1'_pet_7
+anpo_51_cp.v.1'_pon_7 anpo_51_cp.v.1'_uto_7 anpo_51_cp.v.1'_sre_7 anpo_51_cp.v.1'_cet_7 anpo_51_cp.v.1'_pet_7
+anpo_52_cp.v.1'_pon_7 anpo_52_cp.v.1'_uto_7 anpo_52_cp.v.1'_sre_7 anpo_52_cp.v.1'_cet_7 anpo_52_cp.v.1'_pet_7
+muje_61_cp.v.1'_pon_7 muje_61_cp.v.1'_uto_7 muje_61_cp.v.1'_sre_7 muje_61_cp.v.1'_cet_7 muje_61_cp.v.1'_pet_7
+// broj dana nastavnika
+anka_5day
+anpo_5day
+arsa_5day
+boal_5day
+bosla_5day
+bosne_5day
+brsla_5day
+busne_5day
+hata_5day
+jasve_5day
+kakri_2day kakri_3day
+knemi_2day knemi_3day
+kove_5day
+kusa_5day
+mami_2day
+neol_2day
+nninf_3day
+nnlik_3day nnlik_4day
+rada_5day
+stama_5day
+steda_5day
+tebo_5day
+// pedagoski uslovi
+// vazni predmeti idu na prve casove
+-brsla_7
+-brsla_6
+-hata_7
+-hata_6
+-stama_7
+-stama_6
+-anka_7
+-anka_6
+-bosne_7
+-bosne_6
+-jasve_7
+-jasve_6
+-kusa_7
+-arsa_7
+-kove_7
+-tebo_7
+-neol_7
+-mami_7
+-mami_6
+-muje_71_hem.p.1_pon_7
+-muje_71_hem.p.1_uto_7
+-muje_71_hem.p.1_sre_7
+-muje_71_hem.p.1_cet_7
+-muje_71_hem.p.1_pet_7
+-muje_72_hem.p.1_pon_7
+-muje_72_hem.p.1_uto_7
+-muje_72_hem.p.1_sre_7
+-muje_72_hem.p.1_cet_7
+-muje_72_hem.p.1_pet_7
+-muje_73_hem.p.1_pon_7
+-muje_73_hem.p.1_uto_7
+-muje_73_hem.p.1_sre_7
+-muje_73_hem.p.1_cet_7
+-muje_73_hem.p.1_pet_7
+-muje_81_hem.p.1_pon_7
+-muje_81_hem.p.1_uto_7
+-muje_81_hem.p.1_sre_7
+-muje_81_hem.p.1_cet_7
+-muje_81_hem.p.1_pet_7
+-muje_82_hem.p.1_pon_7
+-muje_82_hem.p.1_uto_7
+-muje_82_hem.p.1_sre_7
+-muje_82_hem.p.1_cet_7
+-muje_82_hem.p.1_pet_7
+-muje_83_hem.p.1_pon_7
+-muje_83_hem.p.1_uto_7
+-muje_83_hem.p.1_sre_7
+-muje_83_hem.p.1_cet_7
+-muje_83_hem.p.1_pet_7
+-muje_71_hem.p.2_pon_7
+-muje_71_hem.p.2_uto_7
+-muje_71_hem.p.2_sre_7
+-muje_71_hem.p.2_cet_7
+-muje_71_hem.p.2_pet_7
+-muje_72_hem.p.2_pon_7
+-muje_72_hem.p.2_uto_7
+-muje_72_hem.p.2_sre_7
+-muje_72_hem.p.2_cet_7
+-muje_72_hem.p.2_pet_7
+-muje_73_hem.p.2_pon_7
+-muje_73_hem.p.2_uto_7
+-muje_73_hem.p.2_sre_7
+-muje_73_hem.p.2_cet_7
+-muje_73_hem.p.2_pet_7
+-muje_81_hem.p.2_pon_7
+-muje_81_hem.p.2_uto_7
+-muje_81_hem.p.2_sre_7
+-muje_81_hem.p.2_cet_7
+-muje_81_hem.p.2_pet_7
+-muje_82_hem.p.2_pon_7
+-muje_82_hem.p.2_uto_7
+-muje_82_hem.p.2_sre_7
+-muje_82_hem.p.2_cet_7
+-muje_82_hem.p.2_pet_7
+-muje_83_hem.p.2_pon_7
+-muje_83_hem.p.2_uto_7
+-muje_83_hem.p.2_sre_7
+-muje_83_hem.p.2_cet_7
+-muje_83_hem.p.2_pet_7
+-anpo_61_fiz.p.1_pon_7
+-anpo_61_fiz.p.1_uto_7
+-anpo_61_fiz.p.1_sre_7
+-anpo_61_fiz.p.1_cet_7
+-anpo_61_fiz.p.1_pet_7
+-anpo_62_fiz.p.1_pon_7
+-anpo_62_fiz.p.1_uto_7
+-anpo_62_fiz.p.1_sre_7
+-anpo_62_fiz.p.1_cet_7
+-anpo_62_fiz.p.1_pet_7
+-anpo_63_fiz.p.1_pon_7
+-anpo_63_fiz.p.1_uto_7
+-anpo_63_fiz.p.1_sre_7
+-anpo_63_fiz.p.1_cet_7
+-anpo_63_fiz.p.1_pet_7
+-anpo_61_fiz.p.2_pon_7
+-anpo_61_fiz.p.2_uto_7
+-anpo_61_fiz.p.2_sre_7
+-anpo_61_fiz.p.2_cet_7
+-anpo_61_fiz.p.2_pet_7
+-anpo_62_fiz.p.2_pon_7
+-anpo_62_fiz.p.2_uto_7
+-anpo_62_fiz.p.2_sre_7
+-anpo_62_fiz.p.2_cet_7
+-anpo_62_fiz.p.2_pet_7
+-anpo_63_fiz.p.2_pon_7
+-anpo_63_fiz.p.2_uto_7
+-anpo_63_fiz.p.2_sre_7
+-anpo_63_fiz.p.2_cet_7
+-anpo_63_fiz.p.2_pet_7
+-anpo_71_fiz.p.1_pon_7
+-anpo_71_fiz.p.1_uto_7
+-anpo_71_fiz.p.1_sre_7
+-anpo_71_fiz.p.1_cet_7
+-anpo_71_fiz.p.1_pet_7
+-anpo_72_fiz.p.1_pon_7
+-anpo_72_fiz.p.1_uto_7
+-anpo_72_fiz.p.1_sre_7
+-anpo_72_fiz.p.1_cet_7
+-anpo_72_fiz.p.1_pet_7
+-anpo_73_fiz.p.1_pon_7
+-anpo_73_fiz.p.1_uto_7
+-anpo_73_fiz.p.1_sre_7
+-anpo_73_fiz.p.1_cet_7
+-anpo_73_fiz.p.1_pet_7
+-anpo_71_fiz.p.2_pon_7
+-anpo_71_fiz.p.2_uto_7
+-anpo_71_fiz.p.2_sre_7
+-anpo_71_fiz.p.2_cet_7
+-anpo_71_fiz.p.2_pet_7
+-anpo_72_fiz.p.2_pon_7
+-anpo_72_fiz.p.2_uto_7
+-anpo_72_fiz.p.2_sre_7
+-anpo_72_fiz.p.2_cet_7
+-anpo_72_fiz.p.2_pet_7
+-anpo_73_fiz.p.2_pon_7
+-anpo_73_fiz.p.2_uto_7
+-anpo_73_fiz.p.2_sre_7
+-anpo_73_fiz.p.2_cet_7
+-anpo_73_fiz.p.2_pet_7
+-anpo_81_fiz.p.1_pon_7
+-anpo_81_fiz.p.1_uto_7
+-anpo_81_fiz.p.1_sre_7
+-anpo_81_fiz.p.1_cet_7
+-anpo_81_fiz.p.1_pet_7
+-anpo_82_fiz.p.1_pon_7
+-anpo_82_fiz.p.1_uto_7
+-anpo_82_fiz.p.1_sre_7
+-anpo_82_fiz.p.1_cet_7
+-anpo_82_fiz.p.1_pet_7
+-anpo_83_fiz.p.1_pon_7
+-anpo_83_fiz.p.1_uto_7
+-anpo_83_fiz.p.1_sre_7
+-anpo_83_fiz.p.1_cet_7
+-anpo_83_fiz.p.1_pet_7
+-anpo_81_fiz.p.2_pon_7
+-anpo_81_fiz.p.2_uto_7
+-anpo_81_fiz.p.2_sre_7
+-anpo_81_fiz.p.2_cet_7
+-anpo_81_fiz.p.2_pet_7
+-anpo_82_fiz.p.2_pon_7
+-anpo_82_fiz.p.2_uto_7
+-anpo_82_fiz.p.2_sre_7
+-anpo_82_fiz.p.2_cet_7
+-anpo_82_fiz.p.2_pet_7
+-anpo_83_fiz.p.2_pon_7
+-anpo_83_fiz.p.2_uto_7
+-anpo_83_fiz.p.2_sre_7
+-anpo_83_fiz.p.2_cet_7
+-anpo_83_fiz.p.2_pet_7
+// isti predmet ne ide u uzastopnim danim
+-anpo_61_fiz.p.1'_pon -anpo_61_fiz.p.2'_uto
+-anpo_61_fiz.p.1'_uto -anpo_61_fiz.p.2'_sre
+-anpo_61_fiz.p.1'_sre -anpo_61_fiz.p.2'_cet
+-anpo_61_fiz.p.1'_cet -anpo_61_fiz.p.2'_pet
+-anpo_62_fiz.p.1'_pon -anpo_62_fiz.p.2'_uto
+-anpo_62_fiz.p.1'_uto -anpo_62_fiz.p.2'_sre
+-anpo_62_fiz.p.1'_sre -anpo_62_fiz.p.2'_cet
+-anpo_62_fiz.p.1'_cet -anpo_62_fiz.p.2'_pet
+-anpo_63_fiz.p.1'_pon -anpo_63_fiz.p.2'_uto
+-anpo_63_fiz.p.1'_uto -anpo_63_fiz.p.2'_sre
+-anpo_63_fiz.p.1'_sre -anpo_63_fiz.p.2'_cet
+-anpo_63_fiz.p.1'_cet -anpo_63_fiz.p.2'_pet
+-anpo_71_fiz.p.1'_pon -anpo_71_fiz.p.2'_uto
+-anpo_71_fiz.p.1'_uto -anpo_71_fiz.p.2'_sre
+-anpo_71_fiz.p.1'_sre -anpo_71_fiz.p.2'_cet
+-anpo_71_fiz.p.1'_cet -anpo_71_fiz.p.2'_pet
+-anpo_72_fiz.p.1'_pon -anpo_72_fiz.p.2'_uto
+-anpo_72_fiz.p.1'_uto -anpo_72_fiz.p.2'_sre
+-anpo_72_fiz.p.1'_sre -anpo_72_fiz.p.2'_cet
+-anpo_72_fiz.p.1'_cet -anpo_72_fiz.p.2'_pet
+-anpo_73_fiz.p.1'_pon -anpo_73_fiz.p.2'_uto
+-anpo_73_fiz.p.1'_uto -anpo_73_fiz.p.2'_sre
+-anpo_73_fiz.p.1'_sre -anpo_73_fiz.p.2'_cet
+-anpo_73_fiz.p.1'_cet -anpo_73_fiz.p.2'_pet
+-anpo_81_fiz.p.1'_pon -anpo_81_fiz.p.2'_uto
+-anpo_81_fiz.p.1'_uto -anpo_81_fiz.p.2'_sre
+-anpo_81_fiz.p.1'_sre -anpo_81_fiz.p.2'_cet
+-anpo_81_fiz.p.1'_cet -anpo_81_fiz.p.2'_pet
+-anpo_82_fiz.p.1'_pon -anpo_82_fiz.p.2'_uto
+-anpo_82_fiz.p.1'_uto -anpo_82_fiz.p.2'_sre
+-anpo_82_fiz.p.1'_sre -anpo_82_fiz.p.2'_cet
+-anpo_82_fiz.p.1'_cet -anpo_82_fiz.p.2'_pet
+-anpo_83_fiz.p.1'_pon -anpo_83_fiz.p.2'_uto
+-anpo_83_fiz.p.1'_uto -anpo_83_fiz.p.2'_sre
+-anpo_83_fiz.p.1'_sre -anpo_83_fiz.p.2'_cet
+-anpo_83_fiz.p.1'_cet -anpo_83_fiz.p.2'_pet
+-staiv_51_bio.p.1'_pon -staiv_51_bio.p.2'_uto
+-staiv_51_bio.p.1'_uto -staiv_51_bio.p.2'_sre
+-staiv_51_bio.p.1'_sre -staiv_51_bio.p.2'_cet
+-staiv_51_bio.p.1'_cet -staiv_51_bio.p.2'_pet
+-kusa_52_bio.p.1'_pon -kusa_52_bio.p.2'_uto
+-kusa_52_bio.p.1'_uto -kusa_52_bio.p.2'_sre
+-kusa_52_bio.p.1'_sre -kusa_52_bio.p.2'_cet
+-kusa_52_bio.p.1'_cet -kusa_52_bio.p.2'_pet
+-kusa_53_bio.p.1'_pon -kusa_53_bio.p.2'_uto
+-kusa_53_bio.p.1'_uto -kusa_53_bio.p.2'_sre
+-kusa_53_bio.p.1'_sre -kusa_53_bio.p.2'_cet
+-kusa_53_bio.p.1'_cet -kusa_53_bio.p.2'_pet
+-kusa_54_bio.p.1'_pon -kusa_54_bio.p.2'_uto
+-kusa_54_bio.p.1'_uto -kusa_54_bio.p.2'_sre
+-kusa_54_bio.p.1'_sre -kusa_54_bio.p.2'_cet
+-kusa_54_bio.p.1'_cet -kusa_54_bio.p.2'_pet
+-staiv_61_bio.p.1'_pon -staiv_61_bio.p.2'_uto
+-staiv_61_bio.p.1'_uto -staiv_61_bio.p.2'_sre
+-staiv_61_bio.p.1'_sre -staiv_61_bio.p.2'_cet
+-staiv_61_bio.p.1'_cet -staiv_61_bio.p.2'_pet
+-staiv_62_bio.p.1'_pon -staiv_62_bio.p.2'_uto
+-staiv_62_bio.p.1'_uto -staiv_62_bio.p.2'_sre
+-staiv_62_bio.p.1'_sre -staiv_62_bio.p.2'_cet
+-staiv_62_bio.p.1'_cet -staiv_62_bio.p.2'_pet
+-kusa_63_bio.p.1'_pon -kusa_63_bio.p.2'_uto
+-kusa_63_bio.p.1'_uto -kusa_63_bio.p.2'_sre
+-kusa_63_bio.p.1'_sre -kusa_63_bio.p.2'_cet
+-kusa_63_bio.p.1'_cet -kusa_63_bio.p.2'_pet
+-kusa_71_bio.p.1'_pon -kusa_71_bio.p.2'_uto
+-kusa_71_bio.p.1'_uto -kusa_71_bio.p.2'_sre
+-kusa_71_bio.p.1'_sre -kusa_71_bio.p.2'_cet
+-kusa_71_bio.p.1'_cet -kusa_71_bio.p.2'_pet
+-kusa_72_bio.p.1'_pon -kusa_72_bio.p.2'_uto
+-kusa_72_bio.p.1'_uto -kusa_72_bio.p.2'_sre
+-kusa_72_bio.p.1'_sre -kusa_72_bio.p.2'_cet
+-kusa_72_bio.p.1'_cet -kusa_72_bio.p.2'_pet
+-kusa_73_bio.p.1'_pon -kusa_73_bio.p.2'_uto
+-kusa_73_bio.p.1'_uto -kusa_73_bio.p.2'_sre
+-kusa_73_bio.p.1'_sre -kusa_73_bio.p.2'_cet
+-kusa_73_bio.p.1'_cet -kusa_73_bio.p.2'_pet
+-kusa_81_bio.p.1'_pon -kusa_81_bio.p.2'_uto
+-kusa_81_bio.p.1'_uto -kusa_81_bio.p.2'_sre
+-kusa_81_bio.p.1'_sre -kusa_81_bio.p.2'_cet
+-kusa_81_bio.p.1'_cet -kusa_81_bio.p.2'_pet
+-kusa_82_bio.p.1'_pon -kusa_82_bio.p.2'_uto
+-kusa_82_bio.p.1'_uto -kusa_82_bio.p.2'_sre
+-kusa_82_bio.p.1'_sre -kusa_82_bio.p.2'_cet
+-kusa_82_bio.p.1'_cet -kusa_82_bio.p.2'_pet
+-kusa_83_bio.p.1'_pon -kusa_83_bio.p.2'_uto
+-kusa_83_bio.p.1'_uto -kusa_83_bio.p.2'_sre
+-kusa_83_bio.p.1'_sre -kusa_83_bio.p.2'_cet
+-kusa_83_bio.p.1'_cet -kusa_83_bio.p.2'_pet
+-kove_61_ist.p.1'_pon -kove_61_ist.p.2'_uto
+-kove_61_ist.p.1'_uto -kove_61_ist.p.2'_sre
+-kove_61_ist.p.1'_sre -kove_61_ist.p.2'_cet
+-kove_61_ist.p.1'_cet -kove_61_ist.p.2'_pet
+-kove_62_ist.p.1'_pon -kove_62_ist.p.2'_uto
+-kove_62_ist.p.1'_uto -kove_62_ist.p.2'_sre
+-kove_62_ist.p.1'_sre -kove_62_ist.p.2'_cet
+-kove_62_ist.p.1'_cet -kove_62_ist.p.2'_pet
+-kove_63_ist.p.1'_pon -kove_63_ist.p.2'_uto
+-kove_63_ist.p.1'_uto -kove_63_ist.p.2'_sre
+-kove_63_ist.p.1'_sre -kove_63_ist.p.2'_cet
+-kove_63_ist.p.1'_cet -kove_63_ist.p.2'_pet
+-kove_71_ist.p.1'_pon -kove_71_ist.p.2'_uto
+-kove_71_ist.p.1'_uto -kove_71_ist.p.2'_sre
+-kove_71_ist.p.1'_sre -kove_71_ist.p.2'_cet
+-kove_71_ist.p.1'_cet -kove_71_ist.p.2'_pet
+-kove_72_ist.p.1'_pon -kove_72_ist.p.2'_uto
+-kove_72_ist.p.1'_uto -kove_72_ist.p.2'_sre
+-kove_72_ist.p.1'_sre -kove_72_ist.p.2'_cet
+-kove_72_ist.p.1'_cet -kove_72_ist.p.2'_pet
+-kove_73_ist.p.1'_pon -kove_73_ist.p.2'_uto
+-kove_73_ist.p.1'_uto -kove_73_ist.p.2'_sre
+-kove_73_ist.p.1'_sre -kove_73_ist.p.2'_cet
+-kove_73_ist.p.1'_cet -kove_73_ist.p.2'_pet
+-kove_81_ist.p.1'_pon -kove_81_ist.p.2'_uto
+-kove_81_ist.p.1'_uto -kove_81_ist.p.2'_sre
+-kove_81_ist.p.1'_sre -kove_81_ist.p.2'_cet
+-kove_81_ist.p.1'_cet -kove_81_ist.p.2'_pet
+-kove_82_ist.p.1'_pon -kove_82_ist.p.2'_uto
+-kove_82_ist.p.1'_uto -kove_82_ist.p.2'_sre
+-kove_82_ist.p.1'_sre -kove_82_ist.p.2'_cet
+-kove_82_ist.p.1'_cet -kove_82_ist.p.2'_pet
+-kove_83_ist.p.1'_pon -kove_83_ist.p.2'_uto
+-kove_83_ist.p.1'_uto -kove_83_ist.p.2'_sre
+-kove_83_ist.p.1'_sre -kove_83_ist.p.2'_cet
+-kove_83_ist.p.1'_cet -kove_83_ist.p.2'_pet
+-arsa_61_geo.p.1'_pon -arsa_61_geo.p.2'_uto
+-arsa_61_geo.p.1'_uto -arsa_61_geo.p.2'_sre
+-arsa_61_geo.p.1'_sre -arsa_61_geo.p.2'_cet
+-arsa_61_geo.p.1'_cet -arsa_61_geo.p.2'_pet
+-arsa_62_geo.p.1'_pon -arsa_62_geo.p.2'_uto
+-arsa_62_geo.p.1'_uto -arsa_62_geo.p.2'_sre
+-arsa_62_geo.p.1'_sre -arsa_62_geo.p.2'_cet
+-arsa_62_geo.p.1'_cet -arsa_62_geo.p.2'_pet
+-arsa_63_geo.p.1'_pon -arsa_63_geo.p.2'_uto
+-arsa_63_geo.p.1'_uto -arsa_63_geo.p.2'_sre
+-arsa_63_geo.p.1'_sre -arsa_63_geo.p.2'_cet
+-arsa_63_geo.p.1'_cet -arsa_63_geo.p.2'_pet
+-arsa_71_geo.p.1'_pon -arsa_71_geo.p.2'_uto
+-arsa_71_geo.p.1'_uto -arsa_71_geo.p.2'_sre
+-arsa_71_geo.p.1'_sre -arsa_71_geo.p.2'_cet
+-arsa_71_geo.p.1'_cet -arsa_71_geo.p.2'_pet
+-arsa_72_geo.p.1'_pon -arsa_72_geo.p.2'_uto
+-arsa_72_geo.p.1'_uto -arsa_72_geo.p.2'_sre
+-arsa_72_geo.p.1'_sre -arsa_72_geo.p.2'_cet
+-arsa_72_geo.p.1'_cet -arsa_72_geo.p.2'_pet
+-arsa_73_geo.p.1'_pon -arsa_73_geo.p.2'_uto
+-arsa_73_geo.p.1'_uto -arsa_73_geo.p.2'_sre
+-arsa_73_geo.p.1'_sre -arsa_73_geo.p.2'_cet
+-arsa_73_geo.p.1'_cet -arsa_73_geo.p.2'_pet
+-arsa_81_geo.p.1'_pon -arsa_81_geo.p.2'_uto
+-arsa_81_geo.p.1'_uto -arsa_81_geo.p.2'_sre
+-arsa_81_geo.p.1'_sre -arsa_81_geo.p.2'_cet
+-arsa_81_geo.p.1'_cet -arsa_81_geo.p.2'_pet
+-arsa_82_geo.p.1'_pon -arsa_82_geo.p.2'_uto
+-arsa_82_geo.p.1'_uto -arsa_82_geo.p.2'_sre
+-arsa_82_geo.p.1'_sre -arsa_82_geo.p.2'_cet
+-arsa_82_geo.p.1'_cet -arsa_82_geo.p.2'_pet
+-busne_61_fra.p.1'_pon -busne_61_fra.p.2'_uto
+-busne_61_fra.p.1'_uto -busne_61_fra.p.2'_sre
+-busne_61_fra.p.1'_sre -busne_61_fra.p.2'_cet
+-busne_61_fra.p.1'_cet -busne_61_fra.p.2'_pet
+-busne_62_fra.p.1'_pon -busne_62_fra.p.2'_uto
+-busne_62_fra.p.1'_uto -busne_62_fra.p.2'_sre
+-busne_62_fra.p.1'_sre -busne_62_fra.p.2'_cet
+-busne_62_fra.p.1'_cet -busne_62_fra.p.2'_pet
+-busne_71_fra.p.1'_pon -busne_71_fra.p.2'_uto
+-busne_71_fra.p.1'_uto -busne_71_fra.p.2'_sre
+-busne_71_fra.p.1'_sre -busne_71_fra.p.2'_cet
+-busne_71_fra.p.1'_cet -busne_71_fra.p.2'_pet
+-busne_72_fra.p.1'_pon -busne_72_fra.p.2'_uto
+-busne_72_fra.p.1'_uto -busne_72_fra.p.2'_sre
+-busne_72_fra.p.1'_sre -busne_72_fra.p.2'_cet
+-busne_72_fra.p.1'_cet -busne_72_fra.p.2'_pet
+-busne_81_fra.p.1'_pon -busne_81_fra.p.2'_uto
+-busne_81_fra.p.1'_uto -busne_81_fra.p.2'_sre
+-busne_81_fra.p.1'_sre -busne_81_fra.p.2'_cet
+-busne_81_fra.p.1'_cet -busne_81_fra.p.2'_pet
+-busne_82_fra.p.1'_pon -busne_82_fra.p.2'_uto
+-busne_82_fra.p.1'_uto -busne_82_fra.p.2'_sre
+-busne_82_fra.p.1'_sre -busne_82_fra.p.2'_cet
+-busne_82_fra.p.1'_cet -busne_82_fra.p.2'_pet
+-tebo_51_eng.p.1'_pon -tebo_51_eng.p.2'_uto
+-tebo_51_eng.p.1'_uto -tebo_51_eng.p.2'_sre
+-tebo_51_eng.p.1'_sre -tebo_51_eng.p.2'_cet
+-tebo_51_eng.p.1'_cet -tebo_51_eng.p.2'_pet
+-neol_52_eng.p.1'_pon -neol_52_eng.p.2'_uto
+-neol_52_eng.p.1'_uto -neol_52_eng.p.2'_sre
+-neol_52_eng.p.1'_sre -neol_52_eng.p.2'_cet
+-neol_52_eng.p.1'_cet -neol_52_eng.p.2'_pet
+-tebo_53_eng.p.1'_pon -tebo_53_eng.p.2'_uto
+-tebo_53_eng.p.1'_uto -tebo_53_eng.p.2'_sre
+-tebo_53_eng.p.1'_sre -tebo_53_eng.p.2'_cet
+-tebo_53_eng.p.1'_cet -tebo_53_eng.p.2'_pet
+-mami_54_eng.p.1'_pon -mami_54_eng.p.2'_uto
+-mami_54_eng.p.1'_uto -mami_54_eng.p.2'_sre
+-mami_54_eng.p.1'_sre -mami_54_eng.p.2'_cet
+-mami_54_eng.p.1'_cet -mami_54_eng.p.2'_pet
+-mami_61_eng.p.1'_pon -mami_61_eng.p.2'_uto
+-mami_61_eng.p.1'_uto -mami_61_eng.p.2'_sre
+-mami_61_eng.p.1'_sre -mami_61_eng.p.2'_cet
+-mami_61_eng.p.1'_cet -mami_61_eng.p.2'_pet
+-tebo_62_eng.p.1'_pon -tebo_62_eng.p.2'_uto
+-tebo_62_eng.p.1'_uto -tebo_62_eng.p.2'_sre
+-tebo_62_eng.p.1'_sre -tebo_62_eng.p.2'_cet
+-tebo_62_eng.p.1'_cet -tebo_62_eng.p.2'_pet
+-tebo_63_eng.p.1'_pon -tebo_63_eng.p.2'_uto
+-tebo_63_eng.p.1'_uto -tebo_63_eng.p.2'_sre
+-tebo_63_eng.p.1'_sre -tebo_63_eng.p.2'_cet
+-tebo_63_eng.p.1'_cet -tebo_63_eng.p.2'_pet
+-tebo_71_eng.p.1'_pon -tebo_71_eng.p.2'_uto
+-tebo_71_eng.p.1'_uto -tebo_71_eng.p.2'_sre
+-tebo_71_eng.p.1'_sre -tebo_71_eng.p.2'_cet
+-tebo_71_eng.p.1'_cet -tebo_71_eng.p.2'_pet
+-tebo_72_eng.p.1'_pon -tebo_72_eng.p.2'_uto
+-tebo_72_eng.p.1'_uto -tebo_72_eng.p.2'_sre
+-tebo_72_eng.p.1'_sre -tebo_72_eng.p.2'_cet
+-tebo_72_eng.p.1'_cet -tebo_72_eng.p.2'_pet
+-tebo_73_eng.p.1'_pon -tebo_73_eng.p.2'_uto
+-tebo_73_eng.p.1'_uto -tebo_73_eng.p.2'_sre
+-tebo_73_eng.p.1'_sre -tebo_73_eng.p.2'_cet
+-tebo_73_eng.p.1'_cet -tebo_73_eng.p.2'_pet
+-tebo_81_eng.p.1'_pon -tebo_81_eng.p.2'_uto
+-tebo_81_eng.p.1'_uto -tebo_81_eng.p.2'_sre
+-tebo_81_eng.p.1'_sre -tebo_81_eng.p.2'_cet
+-tebo_81_eng.p.1'_cet -tebo_81_eng.p.2'_pet
+-tebo_82_eng.p.1'_pon -tebo_82_eng.p.2'_uto
+-tebo_82_eng.p.1'_uto -tebo_82_eng.p.2'_sre
+-tebo_82_eng.p.1'_sre -tebo_82_eng.p.2'_cet
+-tebo_82_eng.p.1'_cet -tebo_82_eng.p.2'_pet
+-neol_83_eng.p.1'_pon -neol_83_eng.p.2'_uto
+-neol_83_eng.p.1'_uto -neol_83_eng.p.2'_sre
+-neol_83_eng.p.1'_sre -neol_83_eng.p.2'_cet
+-neol_83_eng.p.1'_cet -neol_83_eng.p.2'_pet
+// prisustvo u skoli
+51_pon_2
+51_uto_2
+51_sre_2
+51_cet_2
+51_pet_2
+52_pon_2
+52_uto_2
+52_sre_2
+52_cet_2
+52_pet_2
+53_pon_2
+53_uto_2
+53_sre_2
+53_cet_2
+53_pet_2
+54_pon_2
+54_uto_2
+54_sre_2
+54_cet_2
+54_pet_2
+61_pon_2
+61_uto_2
+61_sre_2
+61_cet_2
+61_pet_2
+62_pon_2
+62_uto_2
+62_sre_2
+62_cet_2
+62_pet_2
+63_pon_2
+63_uto_2
+63_sre_2
+63_cet_2
+63_pet_2
+71_pon_2
+71_uto_2
+71_sre_2
+71_cet_2
+71_pet_2
+72_pon_2
+72_uto_2
+72_sre_2
+72_cet_2
+72_pet_2
+73_pon_2
+73_uto_2
+73_sre_2
+73_cet_2
+73_pet_2
+81_pon_2
+81_uto_2
+81_sre_2
+81_cet_2
+81_pet_2
+82_pon_2
+82_uto_2
+82_sre_2
+82_cet_2
+82_pet_2
+83_pon_2
+83_uto_2
+83_sre_2
+83_cet_2
+83_pet_2
+51_pon_5
+51_uto_5
+51_sre_5
+51_cet_5
+51_pet_5
+52_pon_5
+52_uto_5
+52_sre_5
+52_cet_5
+52_pet_5
+53_pon_5
+53_uto_5
+53_sre_5
+53_cet_5
+53_pet_5
+54_pon_5
+54_uto_5
+54_sre_5
+54_cet_5
+54_pet_6
+61_pon_6
+61_uto_6
+61_sre_6
+61_cet_6
+61_pet_6
+62_pon_6
+62_uto_6
+62_sre_6
+62_cet_6
+62_pet_6
+63_pon_6
+63_uto_6
+63_sre_6
+63_cet_6
+63_pet_6
+71_pon_6
+71_uto_6
+71_sre_6
+71_cet_6
+71_pet_6
+72_pon_6
+72_uto_6
+72_sre_6
+72_cet_6
+72_pet_6
+73_pon_6
+73_uto_6
+73_sre_6
+73_cet_6
+73_pet_6
+81_pon_6
+81_uto_6
+81_sre_6
+81_cet_6
+81_pet_6
+82_pon_6
+82_uto_6
+82_sre_6
+82_cet_6
+82_pet_6
+83_pon_6
+83_uto_6
+83_sre_6
+83_cet_6
+83_pet_6
+// petacima fali najvise jedan prvi cas
+51_pon_1 51_uto_1
+51_pon_1 51_sre_1
+51_pon_1 51_cet_1
+51_pon_1 51_pet_1
+51_uto_1 51_sre_1
+51_uto_1 51_cet_1
+51_uto_1 51_pet_1
+51_sre_1 51_cet_1
+51_sre_1 51_pet_1
+51_cet_1 51_pet_1
+52_pon_1 52_uto_1
+52_pon_1 52_sre_1
+52_pon_1 52_cet_1
+52_pon_1 52_pet_1
+52_uto_1 52_sre_1
+52_uto_1 52_cet_1
+52_uto_1 52_pet_1
+52_sre_1 52_cet_1
+52_sre_1 52_pet_1
+52_cet_1 52_pet_1
+53_pon_1 53_uto_1
+53_pon_1 53_sre_1
+53_pon_1 53_cet_1
+53_pon_1 53_pet_1
+53_uto_1 53_sre_1
+53_uto_1 53_cet_1
+53_uto_1 53_pet_1
+53_sre_1 53_cet_1
+53_sre_1 53_pet_1
+53_cet_1 53_pet_1
+54_pon_1 54_uto_1
+54_pon_1 54_sre_1
+54_pon_1 54_cet_1
+54_pon_1 54_pet_1
+54_uto_1 54_sre_1
+54_uto_1 54_cet_1
+54_uto_1 54_pet_1
+54_sre_1 54_cet_1
+54_sre_1 54_pet_1
+54_cet_1 54_pet_1
+// ako nemaju prvi, imaju bar 5 casova
+51_pon_1 51_pon_6
+51_uto_1 51_uto_6
+51_sre_1 51_sre_6
+51_cet_1 51_cet_6
+51_pet_1 51_pet_6
+52_pon_1 52_pon_6
+52_uto_1 52_uto_6
+52_sre_1 52_sre_6
+52_cet_1 52_cet_6
+52_pet_1 52_pet_6
+53_pon_1 53_pon_6
+53_uto_1 53_uto_6
+53_sre_1 53_sre_6
+53_cet_1 53_cet_6
+53_pet_1 53_pet_6
+54_pon_1 54_pon_6
+54_uto_1 54_uto_6
+54_sre_1 54_sre_6
+54_cet_1 54_cet_6
+54_pet_1 54_pet_6
