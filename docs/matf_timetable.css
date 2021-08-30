@@ -1,8 +1,8 @@
 body {
-        width : 950px; 
-        font-family : Arial;
-        margin-top : 0pt;
-        font-size : 10pt;
+    width : 950px; 
+    font-family : Arial;
+    margin-top : 0pt;
+    font-size : 10pt;
 }
 
 a:link{
@@ -71,9 +71,10 @@ table.timetable {
 }
 
 th.timetable {
-	background : #63B0F2;
+	background : #B0F263;
 	border : 1px solid white;
 	font-size : 10pt;
+        text-align: center;
 }
 
 td.timetable { 
@@ -83,13 +84,13 @@ td.timetable {
 	vertical-align : middle; 
 	text-align : center; 
 	background : #ffffff;
-	border : 1px solid #63B0F2;
+	border : 1px solid #B0F263;
 	padding : 5px;
 }
 
 td.heading {
 	font-size : 10pt;
-	background : #63B0F2;
+	background : #B0F263;
 }
 
 .smena13 {	
@@ -99,7 +100,7 @@ td.heading {
 	vertical-align : middle; 
 	text-align : center; 
 	background : #ffffff;
-	border : 1px solid #63B0F2;
+	border : 1px solid #B0F263;
 	padding : 5px;
 	color : BB3333;
 }
@@ -111,7 +112,7 @@ td.heading {
 	vertical-align : middle; 
 	text-align : center; 
 	background : #ffffff;
-	border : 1px solid #63B0F2;
+	border : 1px solid #B0F263;
 	padding : 5px;
 	color : 333399;
 }
